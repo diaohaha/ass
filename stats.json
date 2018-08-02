@@ -1,0 +1,72 @@
+{
+  "assetsByChunkName": {
+    "component---src-layouts-en-js": [
+      "component---src-layouts-en-js-905fce1411d882fd2a8a.js",
+      "component---src-layouts-en-js-905fce1411d882fd2a8a.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-ca2aed2e56c2da1c8434.js",
+      "component---src-pages-index-js-ca2aed2e56c2da1c8434.js.map"
+    ],
+    "path---": [
+      "path----2e2ff6dd96dafc1d9ad2.js",
+      "path----2e2ff6dd96dafc1d9ad2.js.map"
+    ],
+    "path---zh": [
+      "path---zh-ef695aa776eed21e41f6.js",
+      "path---zh-ef695aa776eed21e41f6.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-65d26d395a0a04d2b549.js",
+      "path---page-2-65d26d395a0a04d2b549.js.map"
+    ],
+    "component---src-layouts-zh-js": [
+      "component---src-layouts-zh-js-78cf37a94cde85a2feec.js",
+      "component---src-layouts-zh-js-78cf37a94cde85a2feec.js.map"
+    ],
+    "path---index": [
+      "path---index-fc4d2e483dface39c9f1.js",
+      "path---index-fc4d2e483dface39c9f1.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-a1c30423ebab7f84515b.js",
+      "build-js-styles.css",
+      "commons-a1c30423ebab7f84515b.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-index-en-js": [
+      "component---src-pages-index-en-js-21b053a0ecfa9de81bb9.js",
+      "component---src-pages-index-en-js-21b053a0ecfa9de81bb9.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-4baff3a7628377029a4a.js",
+      "path---404-html-4baff3a7628377029a4a.js.map"
+    ],
+    "component---src-pages-index-zh-js": [
+      "component---src-pages-index-zh-js-3ca0d2bdd0a8cdb14b03.js",
+      "component---src-pages-index-zh-js-3ca0d2bdd0a8cdb14b03.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
+    ],
+    "app": [
+      "app-b7acb136abe9384696bc.js",
+      "build-js-styles.css",
+      "app-b7acb136abe9384696bc.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---en": [
+      "path---en-cb7552daa6da55e7c330.js",
+      "path---en-cb7552daa6da55e7c330.js.map"
+    ],
+    "path---404": [
+      "path---404-4baff3a7628377029a4a.js",
+      "path---404-4baff3a7628377029a4a.js.map"
+    ]
+  }
+}
